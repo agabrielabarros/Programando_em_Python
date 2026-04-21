@@ -1,2 +1,2 @@
-# Estudo-Teste-do-Colab
+# Primeiros testes eestudos
 Esse repositório é para estudo do Colab
