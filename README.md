@@ -1,6 +1,6 @@
 # Primeiros Testes e Estudos 📚
 
-Um repositório dedicado a estudar, testar e criar projetos em **Python** e suas bibliotecas para análise de dados.
+Um repositório dedicado a estudar, testar e criar projetos em **Python** e suas bibliotecas para análise de dados, utilizando o Google Colab.
 
 ## 🎯 Objetivo
 
