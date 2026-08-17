@@ -11,4 +11,4 @@ Documentar minha jornada de aprendizado em:
 - 🧠 Machine Learning básico
 - 📈 Visualização de dados
 
-## 📁 Estrutura do Repositório
+
