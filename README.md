@@ -1,2 +1,14 @@
-# Primeiros testes e estudos
-Esse repositório é para estudar, testar e criar a partir de ensinamentos em Python e Analises de Dados
+# Primeiros Testes e Estudos 📚
+
+Um repositório dedicado a estudar, testar e criar projetos em **Python** e suas bibliotecas para análise de dados.
+
+## 🎯 Objetivo
+
+Documentar minha jornada de aprendizado em:
+- 🐍 Python fundamentals
+- 📊 Análise de Dados
+- 🔧 Bibliotecas populares (Pandas, NumPy, Matplotlib, etc)
+- 🧠 Machine Learning básico
+- 📈 Visualização de dados
+
+## 📁 Estrutura do Repositório
